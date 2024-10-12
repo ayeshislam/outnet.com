@@ -1,4 +1,4 @@
-# TheOUTNET.com
+# The OUTNET.com
 
     This website is luxury discount shopping website. It was launched in 2009. It offers over 350 designers fashion brands at exceptional prices of up to 70% off. The OUTNET offers seamless shopping experience across mobiles, tablet and desktop, inspiring editorial content, express worldwide shipping to over 100 countries.
 
@@ -39,7 +39,7 @@ This project is built by me during construct week at Masai School.
 3.  JavaScript - ES6, local Storage, DE-bouncing, Fetch API, Import / Export,
     Set Interval / Set Timeout.
 4.  API - for signIn and signUp functionality we used https://github.com/masai-school/api-mocker/wiki/Authentication-API
-5.        for search functionality we used https://api.unsplash.com
+5.         for search functionality we used https://api.unsplash.com
 
 ## Feedback:
 
